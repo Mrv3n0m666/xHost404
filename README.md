@@ -21,7 +21,7 @@
     ```
 2. Run the script:
     ```bash
-    python xHost404.py
+    python xHost.py
     ```
 3. Enter the path to the file containing IP addresses when prompted.
 4. Monitor the progress, and the results will be saved to `restdomen.txt`.
