@@ -1,0 +1,28 @@
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.env/
+
+# Compiled source
+# Add specific compiled source files if any
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local configuration file
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
