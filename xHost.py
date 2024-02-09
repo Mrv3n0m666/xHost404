@@ -47,6 +47,7 @@ INFO_TEXT = f"""
 """
 
 # Display the banner
+os.system("clear")
 print(BANNER1)
 print(INFO_TEXT)
 
